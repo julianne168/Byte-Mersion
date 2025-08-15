@@ -5,7 +5,7 @@
 This project examines the challenges and opportunities faced by African American-owned businesses in New York City's food and hospitality sector, utilizing the ESG (Environmental, Social, Governance) framework.  
 We combined demographic, income, education, and industry data with spatial analysis to uncover operational patterns and sustainability strategies.
 
-**Team Members:** Junyi Li, Zhexuan Tang, Swati Sharma, Vinayak Saxena, Zheyan Chen, Anshika Gupta, Sneha Kripa Tirchy Shekar
+**Team Members:** Anshika Gupta,Junyi Li,Sneha Kripa Tirchy Shekar,Swati Sharma,Vinayak Saxena,Zhexuan Tang,Zheyan Chen (In Alphabetical Order)
 
 ---
 
